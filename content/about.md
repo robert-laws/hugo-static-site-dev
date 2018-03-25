@@ -5,3 +5,5 @@ draft: false
 ---
 
 ### All about the author...
+
+![coffee image](/img/coffee.jpg)
